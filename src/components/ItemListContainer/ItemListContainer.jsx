@@ -13,7 +13,7 @@ export const ItemListContainer = () => {
         })
     }, [])
         return (
-            <div>
+            <div className='row cardStyle'>
                 {productos}
             </div>
         );

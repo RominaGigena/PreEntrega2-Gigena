@@ -4,7 +4,7 @@
         "idCategoria": 1,
         "nombre": "Semillas de kale",
         "marca": "El jardin de los gatos",
-        "subtitulo": "sobre de 100 semillas",
+        "subtitulo": "(sobre de 100 semillas)",
         "precio": 800,
         "stock": 10,
         "img": "kale.png"
@@ -14,7 +14,7 @@
         "idCategoria": 1,
         "nombre": "Semillas de coliflor",
         "marca": "El jardin de los gatos",
-        "subtitulo": "sobre de 50 semillas",
+        "subtitulo": "(sobre de 50 semillas)",
         "precio": 800,
         "stock": 10,
         "img": "coliflor.png"
@@ -24,7 +24,7 @@
         "idCategoria": 1,
         "nombre": "Semillas de amapola",
         "marca": "El jardin de los gatos",
-        "subtitulo": "sobre de 200 semillas",
+        "subtitulo": "(sobre de 200 semillas)",
         "precio": 750,
         "stock": 10,
         "img": "amapola.png"
@@ -34,7 +34,7 @@
         "idCategoria": 1,
         "nombre": "Semillas de calendula",
         "marca": "El jardin de los gatos",
-        "subtitulo": "sobre de 50 semillas",
+        "subtitulo": "(sobre de 50 semillas)",
         "precio": 700,
         "stock": 10,
         "img": "calendula.png"
@@ -44,7 +44,7 @@
         "idCategoria": 2,
         "nombre": "Semillero plastico",
         "marca": "Plasticos Cat",
-        "subtitulo": "72 celdas",
+        "subtitulo": "50 celdas",
         "precio": 650,
         "stock": 50,
         "img": "semillero.png"
@@ -78,15 +78,5 @@
         "precio": 350,
         "stock": 12,
         "img": "lavanda.png"
-    },
-    {
-        "id": 9,
-        "idCategoria": 3,
-        "nombre": "Plantin de lazo de amor",
-        "marca": "El jardin de los gatos",
-        "subtitulo": "lista para tu cantero",
-        "precio": 300,
-        "stock": 15,
-        "img": "lazo.png"
     }
 ]
