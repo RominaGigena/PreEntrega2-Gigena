@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "idCategoria": 1,
+        "nombre": "Semillas de kale",
+        "marca": "El jardin de los gatos",
+        "subtitulo": "sobre de 100 semillas",
+        "precio": 800,
+        "stock": 10,
+        "img": "kale.png"
+    },
+    {
+        "id": 2,
+        "idCategoria": 1,
+        "nombre": "Semillas de coliflor",
+        "marca": "El jardin de los gatos",
+        "subtitulo": "sobre de 50 semillas",
+        "precio": 800,
+        "stock": 10,
+        "img": "coliflor.png"
+    },
+    {
+        "id": 3,
+        "idCategoria": 1,
+        "nombre": "Semillas de amapola",
+        "marca": "El jardin de los gatos",
+        "subtitulo": "sobre de 200 semillas",
+        "precio": 750,
+        "stock": 10,
+        "img": "amapola.png"
+    },  
+    {
+        "id": 4,
+        "idCategoria": 1,
+        "nombre": "Semillas de calendula",
+        "marca": "El jardin de los gatos",
+        "subtitulo": "sobre de 50 semillas",
+        "precio": 700,
+        "stock": 10,
+        "img": "calendula.png"
+    },
+    {
+        "id": 5,
+        "idCategoria": 2,
+        "nombre": "Semillero plastico",
+        "marca": "Plasticos Cat",
+        "subtitulo": "72 celdas",
+        "precio": 650,
+        "stock": 50,
+        "img": "semillero.png"
+    },
+    {
+        "id": 6,
+        "idCategoria": 2,
+        "nombre": "Maceta plastica",
+        "marca": "Plasticos Cat",
+        "subtitulo": "plastico soplado",
+        "precio": 350,
+        "stock": 50,
+        "img": "maceta.png"
+    },
+    {
+        "id": 7,
+        "idCategoria": 3,
+        "nombre": "Plantin de calendula",
+        "marca": "El jardin de los gatos",
+        "subtitulo": "lista para la huerta",
+        "precio": 300,
+        "stock": 15,
+        "img": "calend.png"
+    },
+    {
+        "id": 8,
+        "idCategoria": 3,
+        "nombre": "Plantin de lavanda",
+        "marca": "El jardin de los gatos",
+        "subtitulo": "lista para la huerta",
+        "precio": 350,
+        "stock": 12,
+        "img": "lavanda.png"
+    },
+    {
+        "id": 9,
+        "idCategoria": 3,
+        "nombre": "Plantin de lazo de amor",
+        "marca": "El jardin de los gatos",
+        "subtitulo": "lista para tu cantero",
+        "precio": 300,
+        "stock": 15,
+        "img": "lazo.png"
+    }
+]
