@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "idCategoria": "Semillas",
+        "idCategoria": 1,
         "nombre": "Semillas de kale",
         "marca": "El jardin de los gatos",
         "subtitulo": "(sobre de 100 semillas)",
@@ -11,7 +11,7 @@
     },
     {
         "id": 2,
-        "idCategoria": "Semillas",
+        "idCategoria": 1,
         "nombre": "Semillas de coliflor",
         "marca": "El jardin de los gatos",
         "subtitulo": "(sobre de 50 semillas)",
@@ -21,7 +21,7 @@
     },
     {
         "id": 3,
-        "idCategoria": "Semillas",
+        "idCategoria": 1,
         "nombre": "Semillas de amapola",
         "marca": "El jardin de los gatos",
         "subtitulo": "(sobre de 200 semillas)",
@@ -31,7 +31,7 @@
     },  
     {
         "id": 4,
-        "idCategoria": "Semillas",
+        "idCategoria": 1,
         "nombre": "Semillas de calendula",
         "marca": "El jardin de los gatos",
         "subtitulo": "(sobre de 50 semillas)",
@@ -41,7 +41,7 @@
     },
     {
         "id": 5,
-        "idCategoria": "Herramientas",
+        "idCategoria": 2,
         "nombre": "Semillero plastico",
         "marca": "Plasticos Cat",
         "subtitulo": "50 celdas",
@@ -51,7 +51,7 @@
     },
     {
         "id": 6,
-        "idCategoria": "Herramientas",
+        "idCategoria": 2,
         "nombre": "Maceta plastica",
         "marca": "Plasticos Cat",
         "subtitulo": "plastico soplado",
@@ -61,7 +61,7 @@
     },
     {
         "id": 7,
-        "idCategoria": "Plantines",
+        "idCategoria": 3,
         "nombre": "Plantin de calendula",
         "marca": "El jardin de los gatos",
         "subtitulo": "lista para la huerta",
@@ -71,7 +71,7 @@
     },
     {
         "id": 8,
-        "idCategoria": "Plantines",
+        "idCategoria": 3,
         "nombre": "Plantin de lavanda",
         "marca": "El jardin de los gatos",
         "subtitulo": "lista para la huerta",
